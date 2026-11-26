@@ -8,7 +8,7 @@ Official visual assets, 3D fleet renders, widescreen gameplay cards, and brand t
 
 - **Website:** [https://astrorace.app](https://astrorace.app)
 - **Playable Build:** [https://play.astrorace.app](https://play.astrorace.app)
-- **Documentation:** [https://astrorace.app/docs/](https://astrorace.app/docs/)
+- **Documentation:** [https://astrorace.gitbook.io/astrorace-docs/](https://astrorace.gitbook.io/astrorace-docs/) · [https://astrorace.app/docs/](https://astrorace.app/docs/)
 - **Official X:** [https://x.com/astroracegame](https://x.com/astroracegame)
 - **Media Inquiries:** `press@astrorace.app`
 
